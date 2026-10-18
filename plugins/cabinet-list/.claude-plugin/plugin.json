@@ -1,0 +1,8 @@
+{
+  "name": "cabinet-list",
+  "description": "Cabinet list (one-page PDF) from a Mozaik cabinet drawing: width, height, depth, drawers and doors for each cabinet.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mahogany Cabinetry"
+  }
+}

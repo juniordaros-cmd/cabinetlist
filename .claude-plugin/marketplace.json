@@ -1,0 +1,14 @@
+{
+  "name": "mahogany-tools",
+  "description": "Tools from Mahogany Cabinetry",
+  "owner": {
+    "name": "Mahogany Cabinetry"
+  },
+  "plugins": [
+    {
+      "name": "cabinet-list",
+      "source": "./plugins/cabinet-list",
+      "description": "Cabinet list (one-page PDF) from a Mozaik cabinet drawing"
+    }
+  ]
+}
