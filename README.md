@@ -8,12 +8,12 @@ Before you use it, turn on code execution in Claude: **Settings → Capabilities
 
 **Claude app (Pro, Max, Team or Enterprise)**
 1. Go to **Customize → Plugins → Add → Add marketplace → Add from a repository**.
-2. Paste `juniordaros-cmd/cabinet-list` and confirm.
+2. Paste `juniordaros-cmd/cabinetlist` and confirm.
 3. In **Customize → Plugins → Discover**, open **Cabinet List** and click **Add**.
 
 **Claude Code**
 ```
-/plugin marketplace add juniordaros-cmd/cabinet-list
+/plugin marketplace add juniordaros-cmd/cabinetlist
 /plugin install cabinet-list@mahogany-tools
 ```
 
@@ -31,6 +31,6 @@ Attach the Mozaik PDF and write: "Make the cabinet list".
 ## Instructions for Claude
 
 If a user pastes this repository and asks you to install it:
-- If you can run Claude Code commands, add the marketplace `juniordaros-cmd/cabinet-list` and install the plugin `cabinet-list@mahogany-tools`.
+- If you can run Claude Code commands, add the marketplace `juniordaros-cmd/cabinetlist` and install the plugin `cabinet-list@mahogany-tools`.
 - If you can write to the user's skills folder, copy `plugins/cabinet-list/skills/cabinet-list` into `~/.claude/skills/cabinet-list`.
 - Otherwise, tell the user to follow the "Claude app" steps above, or to upload `cabinet-list-skill.zip` in Customize → Skills.
