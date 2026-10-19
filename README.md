@@ -4,6 +4,14 @@ Attach a cabinet drawing made in Mozaik (PDF with the plan, the wall elevations 
 
 Before you use it, turn on code execution in Claude: **Settings → Capabilities**.
 
+## Use without installing
+
+Attach the Mozaik file (JobData.db, or the PDF of the project) in any Claude chat and write:
+
+> Make the cabinet list following the instructions at https://raw.githubusercontent.com/juniordaros-cmd/cabinetlist/main/instructions.md
+
+`instructions.md` holds both skills in one page (Part A for JobData.db, Part B for the PDF).
+
 ## Install
 
 **Claude app (Pro, Max, Team or Enterprise)**
