@@ -31,6 +31,6 @@ Attach the Mozaik PDF and write: "Make the cabinet list".
 ## Instructions for Claude
 
 If a user pastes this repository and asks you to install it:
-- If you can run Claude Code commands, add the marketplace `juniordaros-cmd/cabinetlist` and install the plugin `cabinet-list@mahogany-tools`.
-- If you can write to the user's skills folder, copy `plugins/cabinet-list/skills/cabinet-list` into `~/.claude/skills/cabinet-list`.
-- Otherwise, tell the user to follow the "Claude app" steps above, or to upload `cabinet-list-skill.zip` in Customize → Skills.
+- If you can run Claude Code commands, add the marketplace `juniordaros-cmd/cabinetlist` and install the plugins `cabinet-list@mahogany-tools` and `mozaiklist@mahogany-tools`.
+- If you can write to the user's skills folder, copy `plugins/cabinet-list/skills/cabinet-list` into `~/.claude/skills/cabinet-list` and `plugins/mozaiklist/skills/mozaiklist` into `~/.claude/skills/mozaiklist`.
+- Otherwise, tell the user to follow the "Claude app" steps above, or to upload `cabinet-list-skill.zip` and `mozaiklist-skill.zip` in Customize → Skills.
