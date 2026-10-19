@@ -24,6 +24,10 @@ Download `cabinet-list-skill.zip` from this page, then in Claude go to **Customi
 
 Attach the Mozaik PDF and write: "Make the cabinet list".
 
+## Also in this repository: mozaiklist
+
+`mozaiklist` makes the cabinet list from the job database that Mozaik exports (File > Export > Export to Database, file `JobData.db`), with exact sizes, by room, in Excel and PDF. Install it the same way (plugin `mozaiklist@mahogany-tools`), or upload `mozaiklist-skill.zip` in Customize → Skills. Use it by attaching `JobData.db` (and the PDF, if you have it) and typing `/mozaiklist`, or `/mozaiklist room 2` for one room.
+
 ## Instructions for Claude
 
 If a user pastes this repository and asks you to install it:

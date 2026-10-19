@@ -9,6 +9,11 @@
       "name": "cabinet-list",
       "source": "./plugins/cabinet-list",
       "description": "Cabinet list (one-page PDF) from a Mozaik cabinet drawing"
+    },
+    {
+      "name": "mozaiklist",
+      "source": "./plugins/mozaiklist",
+      "description": "Cabinet list from a Mozaik JobData.db (exact sizes), with or without the job PDF"
     }
   ]
 }

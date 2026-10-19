@@ -1,0 +1,8 @@
+{
+  "name": "mozaiklist",
+  "description": "Cabinet list from a Mozaik JobData.db (exact sizes), with or without the job PDF: Excel and PDF, by room.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mahogany Cabinetry"
+  }
+}
